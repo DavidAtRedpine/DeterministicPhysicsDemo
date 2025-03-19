@@ -1,3 +1,5 @@
+![MasterHead](Docs/Images/DeterministicPhysicsDemo.gif?v=1)
+
 # Deterministic Physics Demo
 
 A test project to explore how determinism works in the Unity Physics package.
